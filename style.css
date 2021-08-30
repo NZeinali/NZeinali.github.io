@@ -28,15 +28,8 @@ p {
 }
 
 
-@media screen and (max-width: 540px) {
-  .bg-light {
-    background-color: #14a11b !important;
+@media screen and (max-width: 960px) {
+  .container-fluid {
+    background-color: #14a11b;
     
-  }
-  
-
-@media screen and (max-width: 540px) {
-  body {
-    background-color:white;
-  
   }
